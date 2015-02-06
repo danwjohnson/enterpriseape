@@ -26,4 +26,4 @@ Pellentesque ultricies justo lectus, ac iaculis ipsum **ornare** a.
 2. Precision
 3. Performance
 
-This is what ruby code would look like `puts 'Hello World''
+This is what ruby code would look like `puts 'Hello World.'`
